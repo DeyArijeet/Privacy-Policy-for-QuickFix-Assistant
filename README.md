@@ -48,4 +48,4 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 If you have any questions or suggestions about our Privacy Policy, please contact us at:
 
 **Email:** deyarijeet998@gmail.com  
-**Website:** https://github.com/DeyArijeet/Privacy-Policy-for-QuickFix-Assistant
+
